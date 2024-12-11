@@ -1,7 +1,11 @@
 # Hello World! 🌟 I'm Blair | 🚀 Software Engineer & Builder  👋
 *Turning ideas into products, one line of code at a time* ✨
 
-![cute_coding](https://github.com/user-attachments/assets/03199daf-b477-4753-afc3-2d18de04497e)
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/03199daf-b477-4753-afc3-2d18de04497e" width="300" alt="cute_coding">
+</div>
 
 
 ## About Me✨
